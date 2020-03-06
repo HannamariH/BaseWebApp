@@ -1,6 +1,8 @@
 # Base Web App
 
-Check it out at: https://pacific-bastion-31399.herokuapp.com/
+My test app is at: https://immense-hollows-01499.herokuapp.com/
+
+(Pre-made example at: https://pacific-bastion-31399.herokuapp.com/)
 
 ### Phase 1: Base Web App
 Mission- Get up and running with the Base Web App. Should be able to run locally and be deployed on Heroku. 
